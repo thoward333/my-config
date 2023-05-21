@@ -1,0 +1,4 @@
+Database:
+  Url: devserver
+  User: devuser
+  Pass: devpass
