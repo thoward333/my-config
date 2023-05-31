@@ -5,3 +5,8 @@ Logging:
     Microsoft.Hosting.Lifetime: Information
     Steeltoe: Warning
     customer_api: Information
+
+Database:
+  Url: ${DATABASE_URL}
+  User: ${DATABASE_USER}
+  Pass: ${DATABASE_PASS}

@@ -1,4 +1,3 @@
-Database:
-  Url: prodserver
-  User: produser
-  Pass: prodpass
+DATABASE_URL: theprodserver
+DATABASE_USER: theproduser
+DATABASE_PASS: theprodpass

@@ -1,4 +1,3 @@
-Database:
-  Url: devserver
-  User: devuser
-  Pass: devpass
+DATABASE_URL: thedevserver
+DATABASE_USER: thedevuser
+DATABASE_PASS: thedevpass
